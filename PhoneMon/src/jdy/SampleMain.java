@@ -1,4 +1,4 @@
-package jky;
+package jdy;
 
 public class SampleMain {
 	public static void main(String[] args) {

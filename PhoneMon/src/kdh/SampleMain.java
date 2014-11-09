@@ -2,8 +2,8 @@ package kdh;
 
 import control.ModuleManager;
 
-public class SampleMain implements ModuleManager{
-	public static void main(String[] args){
+public class SampleMain extends ModuleManager {
+	public static void main(String[] args) {
 		
 	}
 
