@@ -1,6 +1,6 @@
-package jky;
+package phonemon;
 
-public class SampleMain {
+public class PhoneMonMain {
 	public static void main(String[] args) {
 
 	}
